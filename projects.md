@@ -10,15 +10,18 @@ redirect_from:
 # Projects
 
 ## Hindustan Coca-Cola Beverages Limited, from 23.3.20 to 04.05.20
-### Primary research on rural consumers 
-- Conducted In-depth interviews with local retailers and villagers on understanding the consumption pattern of Coca-Cola in rural villages of Palghar, Maharashtra, India 
-- Provided insights on shifting rural trends and demands of the local youth in India 
+### Establishment of Premium Product Portfolio of HCCBPL in Palghar Region 
+- Conducted In-depth on-call interviews of 5 distributors in Palghar to understand their roles and issues faced by them  
+- Completed market immersions for 11 Open Aisle Grocery (OAG) retailers to understand the current merchandising practices  and performed an SKU analysis for competitors 
+- Suggested a team of 3 merchandisers for Palghar to manage display and increase visibility of portfolio at retailer shops 
+- Analysed and advised new growth channels such as approaching caterers for minute-maid 1L Tetra 
+- Premium Sales for Palghar for month of April went up to 4701 (volume in per case) as compared to 3921 in March  
 
 ## Sirona Menstrual Cups, from 05.04.20 to 28.04.20
 ### Go-to-Market Strategy for Menstrual Cups 
 - Conducted primary research to understand the physical and psychological barriers in the adoption of Menstrual Cups 
 - Drafted the customer value proposition for Sirona Menstrual Cups 
-- Designed and implemented creative solutions to instigate trails and increase adoption rate amongst women aged 20-35. 
+- Designed and implemented creative solutions to instigate trails and increase adoption rate amongst women aged 20-35 
 
 ## Sales and Distribution Management, Bisleri
 ### Examined the Sales Organization of Bisleri and suggested solutions for retail growth of Bisleri in Ghaziabad 

@@ -9,12 +9,12 @@ redirect_from:
 
 # Education
 
-## PGDM -  (specialization) 
+## PGDM Marketing
 ### IMT Ghaziabad 
 2021
 7.26 till 4th term 
 
-## B.E. (COMPUTERS)
+## B.E. Computers 
 ### FCRIT, University of Mumbai
 2016
 7.75

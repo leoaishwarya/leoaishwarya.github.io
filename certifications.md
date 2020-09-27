@@ -12,7 +12,7 @@ redirect_from:
 ## Sales Training: Building Your Sales Career
 HubSpot Academy and offered through Coursera, 2020
 
-## Introduction to psychology
+## Introduction to Psychology
 Yale University, offered through Coursera, 2020
 
 ## Brand Management: Aligning Brand, Business and Behaviour

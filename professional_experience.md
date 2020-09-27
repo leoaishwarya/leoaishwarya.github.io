@@ -19,6 +19,8 @@ October 14, 2016 – October 2, 2018
 **[ 24 Months ]**
 </em>
 
+[Appraisal Letter](/assets/documents/Appraisal LTI 2017.pdf){:target="_blank"}
+
 Larsen & Toubro Infotech Limited is a global IT solutions and services company based in Mumbai, India. In 2017, NASSCOM ranked LTI as the sixth-largest Indian IT services company in terms of export revenues. People at LTI believe in the core values of ‘Going the extra mile’, ‘Being Agile’, ‘Continuous Learning’, ‘Pushing the frontiers of Innovation’ and ‘Solving for Society’
 
 Spear-headed Business Intelligence reporting and end-to-end first-line production support for LTI - Chevron Australia Managed Services. Worked extensively with various BI tools to create, deploy, and support reports across a wide range of Chevron Australia applications. My role also included pitching the newly created reports to Chevron ABU clients.

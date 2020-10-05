@@ -9,11 +9,11 @@ redirect_from:
 
 # Achievements & Awards
 
-## National Finalist
-### Top 8 out of 2500 - Rural Impact category for 3M-CII Young Innovators Challenge Award, 2020
 
-## Participant
-### Infosys Ingenious, 2020 (on-going)
+## National Finalist 3M-CII Young Innovators Challenge Awards, 2020
+### Top 8 out of 2500 teams 
+
+
 
 ## Campus-Winner
 ### Reliance Industries Ltd. T.U.P 5.0, 2019
@@ -23,6 +23,7 @@ redirect_from:
 | ![Reliance TUP](/assets/img/awards_and_recognitions/TUPAward.webp) | ![Marketing World Cup 2019](/assets/img/awards_and_recognitions/TUPD2C.webp)
 
 | ![TUP](/assets/img/awards_and_recognitions/TUP.webp) | ![TUP 2](/assets/img/awards_and_recognitions/TUP2.webp)
+
 
 ## Winner
 ### Marketing World Cup, National Level Inter-college Competition, 2019 
@@ -39,6 +40,8 @@ redirect_from:
 ## 2nd Runner-up
 ### Line of Fire, Marketing World Cup, 2019 
 
+
+
 ## Winner
 ### L&T InfoTech Valuable Performance Award, L&T InfoTech, 2017
 
@@ -54,11 +57,17 @@ redirect_from:
 ## Winner
 ### P’ Cube Research, Fr.Conceicao Rodrigues Institute of Technology, 2016
 
+
+
 ## Winner
 ### Technical Paper presentation, VJTI, 2016
 
+
+
 ## Winner
 ### Avishkar, National level project presentation competition, 2016 
+
+
 
 ## School topper
 ### Little Angel’s Convent School, 2007, 2008 and 2009

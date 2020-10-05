@@ -60,6 +60,10 @@ Summer Intern
 **[ 1.5 months ]**
 </em>
 
+Project Manager : Deepraj Hegde, Consumer Insights Division, Mediacom 
+Feedback on work submitted : https://www.linkedin.com/in/aishwarya-chaudhari-185419108/
+
+
 ### Project Title 
 Impact of COVID-19 on consumer behaviour for FMCG Category
 

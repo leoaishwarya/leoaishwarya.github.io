@@ -12,6 +12,7 @@ redirect_from:
 ## Sales  
 
 
+
 ### The Science of Sales 
 LinkedIn Learning (Lynda.com), 2020 
 
@@ -40,6 +41,7 @@ HubSpot Academy and offered through Coursera, 2020
 ## Human Psychology and Consumer Behaviour 
 
 
+
 ### Introduction to Psychology
 Yale University, offered through Coursera, 2020  
 
@@ -59,6 +61,7 @@ Copenhagen Business School, offered through Coursera, 2020
 ## Workplace Essentials 
 
 
+
 ### Crisis Communication 
 LinkedIn Learning (Lynda.com), 2020
 
@@ -72,6 +75,7 @@ LinkedIn Learning (Lynda.com), 2020
 ## Marketing 2020
 
 
+
 ### Jonah Berger on Viral Marketing 
 LinkedIn Learning (Lynda.com), 2020
 
@@ -83,6 +87,7 @@ LinkedIn Learning (Lynda.com), 2020
 
 
 ## Additional Languages 
+
 
 
 ### Certified in French speaking, DELF A1 

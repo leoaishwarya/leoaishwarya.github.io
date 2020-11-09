@@ -8,27 +8,36 @@ redirect_from:
 ---
 
 # Projects
+ 
+## Sirona 
+GTM Strategy 
 
-## Hindustan Coca-Cola Beverages Limited
-### Establishment of Premium Product Portfolio of HCCBPL in Palghar Region
-- Conducted In-depth on-call interviews of 5 distributors in Palghar to understand their roles and issues faced by them  
-- Completed market immersions for 11 Open Aisle Grocery (OAG) retailers to understand the current merchandising practices  and performed an SKU analysis for competitors 
-- Suggested a team of 3 merchandisers for Palghar to manage display and increase visibility of portfolio at retailer shops 
-- Analysed and advised new growth channels such as approaching caterers for minute-maid 1L Tetra 
-- Premium Sales for Palghar for month of April went up to 4701 (volume in per case) as compared to 3921 in March  
+### Broad Outline:
+-	Segmenting and targeting the menstrual hygiene market based on demographic and psychographic factors
+- Defined the ‘Sirona’ brand positioning, and channels to achieve distribution in Ghaziabad 
+- Market sensing to understand the physical and psychological barriers in the adoption of Cups 
+- Mapped motivations, pain points and aspirations of target customers through customer journey mapping
+- Outlined the core customer value proposition, and inbound marketing strategy for Sirona Menstrual Cups 
+- Designed creative solutions to instigate trials and increase adoption rate amongst young women 
 
-## Sirona Menstrual Cups
-### Go-to-Market Strategy for Menstrual Cups 
-- Conducted primary research to understand the physical and psychological barriers in the adoption of Menstrual Cups 
-- Drafted the customer value proposition for Sirona Menstrual Cups 
-- Designed and implemented creative solutions to instigate trails and increase adoption rate amongst women aged 20-35 
+## Bisleri India 
+Sales and Distribution Management 
 
-## Sales and Distribution Management, Bisleri
-### Examined the Sales Organization of Bisleri and suggested solutions for retail growth of Bisleri in Ghaziabad 
+### Broad Outline:
 - Examined the distribution network and its sales force structure for B2C Channels 
 - Studied the Sales Organization, Recruitment and Training of Sales personnel, Territory Allocation, Reporting Structure,  Sales Force Evaluation and Channel Management practices of Bisleri 
 - Reached Network Understanding and crafted solutions to attain retail sales growth for Bisleri 
-- Created a shopper engagement funnel to identify sales growth opportunities 
+- Created a shopper engagement funnel to identify sales growth opportunities  
 
-![CMO of Bisleri](/assets/img/projects/cmo_bisleri.webp)
+![CMO of Bisleri](/assets/img/projects/cmo_bisleri.webp) 
+
+## Incredible India  
+Creative Brand Management
+
+### Broad Outline:
+360 degree communication campaign 
+Acquired an insightful understanding of the domestic traveller immediately post COVID-19  
+Created a base brand idea from the confluence of category, brand and cultural truths
+Curated 4 powerful creative campaign ideas to drive communication and grow sales 
+
 

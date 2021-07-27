@@ -6,7 +6,7 @@ description: >
 sitemap: false
 ---
 
-[![Watch the video](https://img.youtube.com/vi/V2MGylV8igU/default.jpg)](https://youtu.be/V2MGylV8igU)
+[![Watch the video](https://img.youtube.com/vi/V2MGylV8igU/hqdefault.jpg)](https://youtu.be/V2MGylV8igU)
 
 Thanks for making me realize that,
 
@@ -22,7 +22,7 @@ I totally understand, the right choice to make.
 Loving from a distance is surreal and extraordinary.
 This one is special, and may be the one which brings my enough emotions out.
 
-------------------------❤️----------------------------
+------------------------------------------------❤️----------------------------------------------------
 
 Some people believe there is a one,
 The one who points your way to the sun.
@@ -65,7 +65,8 @@ Blink your eye, I will still be here
 Miss me ever, just text me there?
 I promise you angel, I will treat you like a dove
 1000 years will pass, But will be still in love
-------------------------❤️----------------------------
+
+------------------------------------------------❤️----------------------------------------------------
 
 Today is a fresh day in your notebook,
 I am deleting our memories,
@@ -73,7 +74,7 @@ Please run without any obstruction,
 Jump with no rope tied,
 and fly with your wings and head held high.
 
-------------------------❤️----------------------------
+------------------------------------------------❤️----------------------------------------------------
 
 All the best for the New chapter in your life
 

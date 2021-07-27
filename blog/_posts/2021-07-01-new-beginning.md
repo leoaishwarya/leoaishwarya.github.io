@@ -66,22 +66,16 @@ We are tight, so close, your heart beats in my chest.
 
 
 
-All that we have always felt missing before.
-
-Though I love you today, tomorrow it will be more.
-
-Our love is life, we are the strongest tree,
-
+All that we have always felt missing before.\
+Though I love you today, tomorrow it will be more.\
+Our love is life, we are the strongest tree,\
 Which will always grow forever, like you and me.
 
 
 
-You have opened my heart and held it so dear.
-
-You are my angel and will always keep it near.
-
-You have seen my ups and cared when I was low.
-
+You have opened my heart and held it so dear.\
+You are my angel and will always keep it near.\
+You have seen my ups and cared when I was low.\
 You are my angel, I just need you to know.
 
 

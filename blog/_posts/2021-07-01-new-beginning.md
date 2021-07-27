@@ -23,7 +23,7 @@ But most importantly its about being selfless and doing sacrifices
 
 I know your intentions and sacrifices,
 
-Telling the honest ones on my face would have difficult and,
+Telling the honest ones on my face would have been difficult and,
 
 I totally understand, the right choice to make.
 

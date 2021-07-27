@@ -133,9 +133,7 @@ Most importantly enjoy your job.
 
 
 
-Take Care Angel
-
-somehow, somewhere 
-
+Take Care Angel\
+somehow, somewhere \
 I will be rooting for you and always keep smiling
 

@@ -56,3 +56,7 @@ sitemap: false
   You are just you (again).\
   acknowledging that it just a background, and contemplating on your own thoughts.
 - Embrace the change, enjoy the enlightenment and start loving her again.
+- If you love someone, you are going to loose them\
+  sometime, somehow, somewhere\
+  Yes, quite possibly,\
+  But we, love anyway, don't we?

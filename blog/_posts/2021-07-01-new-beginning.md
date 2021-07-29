@@ -8,8 +8,9 @@ sitemap: false
 
 [![Watch the video](https://img.youtube.com/vi/V2MGylV8igU/hqdefault.jpg)](https://youtu.be/V2MGylV8igU)
 
-[Watch on Youtube](https://youtu.be/V2MGylV8igU)
+[📹 Watch on Youtube](https://youtu.be/V2MGylV8igU)
 
+####
 
 Thanks for making me realize that,
 

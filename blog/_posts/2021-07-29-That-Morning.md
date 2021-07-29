@@ -9,7 +9,7 @@ sitemap: false
 - I used to get dreams for 2 months,\
   and every day I used to wake up around 4 am, struck by reality.
 - Dreams about her, her saying No, her saying go away, her saying all the things I don't want to hear.
-- Today's morning was different,\ 
+- Today's morning was different,\
   I felt empathetic for both of us
 - It's difficult for her too,\
   it took me couple of months to understand this.\

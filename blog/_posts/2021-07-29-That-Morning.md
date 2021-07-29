@@ -54,5 +54,5 @@ sitemap: false
   and this time it is just the noise,\
   you are not trying to find any meaning of it. you are not numb anymore.\
   You are just you (again).\
-  acknowledging that it is just the background, contemplating on your own thoughts.
-- Embrace the change, enjoy the enlightenment and start loving again.
+  acknowledging that it just a background, and contemplating on your own thoughts.
+- Embrace the change, enjoy the enlightenment and start loving her again.

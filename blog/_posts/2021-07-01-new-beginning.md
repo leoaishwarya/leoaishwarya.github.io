@@ -3,7 +3,7 @@ layout: post
 title: New Beginning
 description: >
   New Beginning
-sitemap: false
+sitemap: true
 ---
 
 [![Watch the video](https://img.youtube.com/vi/V2MGylV8igU/hqdefault.jpg)](https://youtu.be/V2MGylV8igU)

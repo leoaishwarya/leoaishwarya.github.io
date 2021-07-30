@@ -3,7 +3,7 @@ layout: post
 title: That Morning
 description: That Morning, I woke up to something different
   
-sitemap: false
+sitemap: true
 ---
 
 - I used to get dreams for 2 months,\

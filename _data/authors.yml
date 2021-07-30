@@ -69,6 +69,10 @@ author2:
   about:             |
     🏫 Agnelite | 🏢 Oracle | 🏢 Morgan Stanley | 🏢 Browserstack | 🍁 Believer
 
-  picture:           /assets/img/vishalan.png
+  picture:           
+      path: /assets/img/vishalan-192x192.png
+      srcset:
+        1x:            /assets/img/vishalan-512x512.png
+        2x:            /assets/img/vishalan-512x512.png
   twitter:           vishalangharat
   github:            vishalan

@@ -64,15 +64,11 @@ author1:
 
 # Another author (optional)
 author2:
-  name:              <firtname> <lastname>
-  email:             <mail@domain.tld>
+  name:              Vishalan Gharat
+  email:             vishalangharat@gmail.com
   about:             |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-    Open `_data/authors.yml` to edit this text.
+    🏫 Agnelite | 🏢 Oralce | 🏢 Morgan Stanley | 🏢 Browserstack | 🍁 Believer
 
   picture:           https://placehold.it/128x128
-  twitter:           Aishwarya9497
-  github:            <username>
+  twitter:           vishalangharat
+  github:            vishalan

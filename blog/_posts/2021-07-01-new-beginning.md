@@ -3,6 +3,7 @@ layout: post
 title: New Beginning
 description: >
   New Beginning
+author: author2
 sitemap: true
 ---
 

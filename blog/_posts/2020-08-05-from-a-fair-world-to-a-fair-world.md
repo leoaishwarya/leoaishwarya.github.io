@@ -3,7 +3,7 @@ layout: post
 title: From a fair world to a fair world
 description: >
   From a fair world to a fair world
-sitemap: false
+sitemap: true
 ---
 It's 9696 and humans are now born in 5 different colors red, white, green, black, and orange. And no one really cares what color you are. No color is a nice color. So if you differentiate one color from the other, say she's blue, or he is orange, will that be a problem? No right? Classification is in itself 'human'. How else will people make decisions? In fact, it has been scientifically proved to make decision making easier and faster. 
 

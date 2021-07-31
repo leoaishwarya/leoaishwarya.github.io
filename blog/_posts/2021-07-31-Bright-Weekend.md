@@ -44,3 +44,9 @@ sitemap: true
   They might have some right intention, but their stories are lost in the world of darkness.\
   Their faces are black, you can't see it clearly.\
   Their voices are loud, but words are really shallow.
+- We don't get to choose, who we love and who loves us back
+  Tell her that, you are within her, you are within everything,\
+  whether she likes it or not, and she accepts that,\
+  and maybe she gets to find her life again\
+  be happy, be happy for her,\
+  and ultimately the joy will never end.

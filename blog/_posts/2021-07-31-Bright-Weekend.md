@@ -35,7 +35,7 @@ sitemap: true
   If it was just my choice to fight, then I cannot continue beyond the wet surface of here tears.\
   I cannot state my existence beyond the furnished floor and glossy windows.\
   I made a statement when It was necessary and at the time when it was adequate.\
-  The same statement was picked up, sharpened and sliced me across.\
+  The same statement was picked up, sharpened and sliced me across.
 - Today was a day of emotions, realisations and conclusions.
   I still remember the day when we found us, made promises and eventually pictured our future together.\
   Today we found our new existence, intentions and beginnings.\

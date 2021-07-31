@@ -2,7 +2,7 @@
 layout: post
 title: Bright Weekend
 description: >
-  Bright Weekend, you enjoy the sunlight, when its convinient to take a break
+  Bright Weekend, you enjoy the sunlight, when its convenient to take a break
 author: author2
 sitemap: true
 ---

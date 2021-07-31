@@ -7,8 +7,8 @@ author: author2
 sitemap: true
 ---
 
-- Agar woh mujhe chodake khuss hai toh shikayat kaisi\
-  Ab mein unhe khush bhi na dekhu toh mohabbat kaisi
+- Agar woh humein chodake khuss hai toh shikayat kaisi\
+  Ab hum unhein khush bhi na dekhein toh mohabbat kaisi
 - Sympathy and Empathy have a narrow line between them, I tried to understand it for a while. Because none of them were kind enough to interfere in this situation.\
   In contrary,\
   Anxiety, vulnerability and agony joined the party as uninvited guests.\

@@ -32,7 +32,7 @@ sitemap: true
   Also let her leave when she wanted to,\
   Meaning of harassment for me was just a word for never letting go.\
   I realised,\
-  If it was just my choice to fight, then I cannot continue beyond the wet surface of here tears.\
+  If it was just my choice to fight, then I cannot continue beyond the wet surface of her tears.\
   I cannot state my existence beyond the furnished floor and glossy windows.\
   I made a statement when It was necessary and at the time when it was adequate.\
   The same statement was picked up, sharpened and sliced me across.

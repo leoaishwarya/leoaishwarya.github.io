@@ -7,7 +7,7 @@ author: author2
 sitemap: true
 ---
 
-2021-08-08 00:00AM\
+2021-08-08 00:00
 
 Some people believe there is a one,\
 The one who points your way to the sun.\
